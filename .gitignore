@@ -1,3 +1,6 @@
+data/miniseed/
+data/events/
+data/metadata/
 data/csv/*
 
 # Byte-compiled / optimized / DLL files
