@@ -1,1 +1,4 @@
-# mars-insight-seismic-data-exploration
+# Mars Insight Seismic Data Exploration
+
+## Step 1 (In Progress)
+Download the data
